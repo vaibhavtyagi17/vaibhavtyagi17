@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Tyagi</h1>
 <h3 align="center">A passionate developer and problem solver.</h3>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhavtyagi17" alt="vaibhavtyagi17" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="h[ttps://github-profile-trophy.vercel.app/?username=vaibhavtyagi17](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai)" alt="vaibhavtyagi17" /></a></p>
 
 - 🔭 I’m currently working on **developing ai related projects.**
 
