@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **vaibhav707tyagi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/185a_KcF1Pg7qAq00itkDgmRMfD9FU5LQ/view?usp=sharing](https://drive.google.com/file/d/185a_KcF1Pg7qAq00itkDgmRMfD9FU5LQ/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/185a_KcF1Pg7qAq00itkDgmRMfD9FU5LQ/view?usp=sharing](https://portfolio-vt-eight.vercel.app/)]
 
 - ⚡ Fun fact **I love bodybuilding**
 
