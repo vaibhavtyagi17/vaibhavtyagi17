@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **developing ai related projects.**
 
-- 🌱 I’m currently learning **Gsap,Three.js,React.js,DSA,Gen Ai**
+- 🌱 I’m currently learning **React.js,DSA,Gen Ai,Machine Learnig**
 
 - 👯 I’m looking to collaborate on **AI and full stack related projects**
 
